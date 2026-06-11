@@ -41,3 +41,5 @@ jupyter notebook
 https://www.ti.com/lit/an/swra705/swra705.pdf *(Best piece of reference for Radome design for beginners)* <br>
 https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/ *(Best site to learn MEEP for beginners)*
 ### MindMap :
+
+![MindMap](Mind_Map.png)
