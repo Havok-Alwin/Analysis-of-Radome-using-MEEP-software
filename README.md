@@ -8,7 +8,7 @@ since MEEP is now overstacked by python, thus ***pymeep*** can be used to define
 * source
 * field-analysis <br>
 
-also by combining with ***numpy*** and ***matlabplotlib*** various plots can be generated form that field data for a better understanding of em-wave properties that is resolved by
+also by combining with ***numpy*** and ***matlabplotlib.pyplot*** various plots can be generated form that field data for a better understanding of em-wave properties that is resolved by
 MEEP.<br>
 MEEP is mostly used in Photonics/Optics domain but since it is an invariant software <br>
 *{refer : https://meep.readthedocs.io/en/latest/Introduction/#units-in-meep (for a better understanding of MEEP Units) }* <br>
